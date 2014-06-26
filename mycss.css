@@ -1,0 +1,245 @@
+/*
+<img src="schedule.png">
+<img src="trial.png">
+<img src="phone.png">
+<img src="logo.png">
+<img src="sign-up.png">
+<img src="ad.png">
+*/
+* {
+	font-family: helvetica;
+	margin: 0px;
+	font-size: .95em;
+}
+
+/*
+body {
+	background-image: url("Screen3.jpg");
+	opacity: 0;
+}
+*/
+
+#breadcrumbs {
+	margin-top: 14px;
+}
+#breadcrumbs a{
+	background-color: ;
+	text-decoration: none;
+	color: #5285A3;
+	font-size: 1.2em;
+}
+
+h1 {
+	width:1000px;
+	background-image: url("bg-title.png");
+	color: white;
+	font-size: 2em;
+	padding: 10px;
+	font-weight: normal;
+	margin: 10px 0px 0px 0px;
+}
+
+h2 {
+	padding-top: 5px;
+	font-size: 1.70em;
+	padding-bottom: 15px;
+	color: #1F72AF;
+}
+
+#top-content ul{
+	margin: 15px 0px;
+	padding-left: 10px;
+	list-style-type: square !important;
+	
+}
+
+#top-content ul li{
+	font-size: 1.20em;
+	line-height: 150%;
+
+}
+
+#end-p {
+	padding-top: 5px;
+	font-size: 1.20em;
+	line-height: 150%;
+}
+
+
+span {
+	font-weight: bold;
+}
+
+h5 {
+	margin-top: 15px;
+	margin-bottom: 5px;
+	color: #2A6C92;
+}
+
+#hours,#inter {
+	color: #8C8D8D;
+}
+
+#phone {
+	font-size: 2.1em;
+	font-weight: bold;
+	color: #45ACE1;
+}
+
+#demo-pic {
+	margin-top: 25px;
+}
+
+#nocc {
+	margin-top: 5px;
+	text-align: center;
+	width: 220px;
+}
+
+#demo-hr {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#pic-ad {
+	margin-top: 10px;
+	margin-left: 5px;
+}
+
+img {
+	display: block;
+}
+
+#nav-bar {
+	padding-top: 0px;
+	margin-top: 5px;
+	margin-left: 450px;
+	width: 550px;
+	text-align: right;
+	display: inline-block;
+}
+
+#nav-links {
+	background-color: #F9F9F9;
+	display: inline-block;
+	vertical-align: top;
+	padding: 0px 5px 10px 10px;
+	border-radius: 15px solid gray;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border: 1px solid #E0E0E0;
+	border-top: none;
+	
+}
+#nav-bar a{
+	
+	text-decoration: none;
+	color: gray;
+	vertical-align: top;
+	margin: 0px 5px;
+	font-size: .85em;
+}
+
+#login{
+	background-color: white;
+	margin-left: 50px;
+	display: inline-block;
+}
+
+#side-nav {
+	margin-top: 55px;
+	margin-left: 10px;
+	display: inline-block;
+	width: 220px;
+	vertical-align: top;
+}
+
+h4 {
+	font-size: 1.35em;
+	color: #276994;
+}
+
+h5 {
+	color: #BD4640;	
+}
+
+#main-content p,h2,li {
+	margin: 0px;
+}
+
+#content {
+	display: inline-block;
+	width: 70%;
+}
+
+#breadcrumbs {
+	width: 60%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#phone-pic {
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+}
+
+#contact{
+	margin-top: 10px;
+	text-align: left;
+	display: inline-block;
+	width: 160px;
+	list-style-type: none;
+	vertical-align: top;
+	padding-left: 0px;
+}
+
+#contact li {
+	margin: 0px;
+}
+
+#middle-content {
+	width: 645px;
+	border: 5px solid #87BBD9;
+	margin: 15px 0px 5px 0px;
+}
+
+#flag {
+	display: inline-block;
+}
+
+#right-content {
+	width: 80%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#right-content h2{
+	padding: 5px 0px 5px 0px;
+}
+
+#right-content p{
+	margin: 0px;
+	padding: 0px;
+	font-size: 1.25em;
+	line-height: 150%;
+	margin-bottom: 10px;
+}
+
+#main-content h3 {
+	padding-top: 10px;
+	font-weight: bold;
+	font-size: 1.20em;
+	color: #1D70AF;
+}
+
+#auto-p {
+	padding-top: 15px;
+	line-height: 150%;
+	font-size: 1em;
+}
+
+#content {
+	margin-left: 20px;
+	padding-left: 10px;
+}
